@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineethreddymaddula" alt="vineethreddymaddula" /></a> </p>
 
-- 🌱 I’m currently learning **front-end Development**
+- 🌱  **front-end Developer**
 
-- 👨‍💻 All of my projects are available at [http://vineeth.c1.biz/](http://vineeth.c1.biz/)
-
-- 📝 I regularly write articles on [https://vineethreddy242.wixsite.com/fastnews](https://vineethreddy242.wixsite.com/fastnews)
-
-- 💬 Ask me about **HTML, CSS, JS, ReactJS, Figma, Java, Python**
+- 💬 Ask me about **HTML, CSS, JS, ReactJS, Java, Python**
 
 - 📫 How to reach me **vineethreddy242@gmail.com**
-
-- 📄 Know about my experiences [http://vineeth.c1.biz/mycv.pdf](http://vineeth.c1.biz/mycv.pdf)
 
 - ⚡ Fun fact **I'm Very horrible at cracking jokes**
 
