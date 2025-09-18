@@ -17,7 +17,7 @@
 <a href="https://twitter.com/vineeth_2402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vineeth_2402" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vineethreddymaddula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineethreddymaddula" height="30" width="40" /></a>
 <a href="https://fb.com/vineeth242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vineeth242" height="30" width="40" /></a>
-<a href="https://instagram.com/vineeth_reddy_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineeth_reddy_._" height="30" width="40" /></a>
+<a href="https://instagram.com/spoidy_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineeth_reddy_._" height="30" width="40" /></a>
 </p>
 
 
